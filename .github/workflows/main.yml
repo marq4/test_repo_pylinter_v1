@@ -16,6 +16,7 @@ jobs:
         mypy-flags: ''
         fail-on-isort: true
 
+
 #    - name: commit isort changes
 #      run: |
 #        git config --local user.email "action@github.com"
