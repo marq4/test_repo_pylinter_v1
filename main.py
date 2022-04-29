@@ -1,3 +1,5 @@
+""" Example code for CI linting. """
+
 import os
 import math
 
